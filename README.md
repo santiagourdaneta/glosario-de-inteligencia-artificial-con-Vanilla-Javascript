@@ -28,3 +28,23 @@ El proyecto es extremadamente sencillo de poner en marcha, ya que no requiere de
 ```bash
 git clone [https://github.com/santiagourdaneta/glosario-de-inteligencia-artificial-con-vanilla-JavaScript.git](https://github.com/santiagourdaneta/glosario-de-inteligencia-artificial-con-vanilla-JavaScript.git)
 cd glosario-de-inteligencia-artificial-con-vanilla-JavaScript
+
+2. Ejecutar
+Simplemente abre el archivo index.html en tu navegador web preferido.
+
+📄 Contribuciones
+Si deseas añadir nuevos términos al glosario, mejorar las definiciones, o corregir errores, ¡eres bienvenido a contribuir!
+
+Haz un Fork de este repositorio.
+
+Crea una rama (git checkout -b feature/nueva-definicion).
+
+Realiza tus cambios.
+
+Abre un Pull Request (PR) detallando tus modificaciones.
+
+👥 Autor
+Santiago Urdaneta
+
+
+
